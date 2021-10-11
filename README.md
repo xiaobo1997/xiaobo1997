@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaobo1997&count_private=true&show_icons=true"/>
+
 <!--
 **xiaobo1997/xiaobo1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
